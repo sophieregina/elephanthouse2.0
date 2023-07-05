@@ -13,7 +13,7 @@
 # production
 /build
 /public/sounds
-/public/elephanthouse.glb
+public/elephanthouse.glb
 
 # misc
 .DS_Store
