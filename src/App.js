@@ -302,8 +302,8 @@ export default function App() {
           <span className="menuButtonFooter" itemID='about' onClick={() => showAbout()}>Über dieses App</span>
         </div>
         {popup &&
-        <div className="popup">
-          <button class="Onclicks" onClick={() => closePopup()}>x</button>
+        <div onClick={() => closePopup()} className="popup">
+          <button className="Onclicks" onClick={() => closePopup()}>x</button>
           <div className="popup-video" width="650" height="380" controls>
           {kevinVideoPW &&
             <iframe className="video" src="https://www.youtube.com/embed/N9FwXGQi4Zw?autoplay=1" title="YouTube video player" frameborder="0" allow="autoplay" allowfullscreen allowautoplay></iframe>}

@@ -65,8 +65,8 @@ canvas{
 }
 
 button {
-  width: 1.3vw;
-  height: 1.3vw;
+  width: 20px;
+  height: 20px;
   background-color: lightgrey;
   color: rgb(55, 52, 62, 0.9);
 }
