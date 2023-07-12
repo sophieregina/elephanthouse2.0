@@ -101,8 +101,8 @@ button {
 }
 
 .menu  {
-  margin-left: 5vw;
-  margin-right: 5vw;
+  padding-left: 5vw;
+  padding-right: 5vw;
   margin-top: 5vh;
   margin-bottom: 5vh;
 }
