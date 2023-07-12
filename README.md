@@ -1,6 +1,7 @@
 # elephanthouse2.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+elephanthouse2.0 is a virtual museum of the [sic! Elephanthouse](https://www.sic-elephanthouse.ch/) in Lucern. It was build as part of a master thesis in digital humanities. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
 
@@ -29,8 +30,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-##3D Model
-The 3D model (elephanthouse.glb) (the actual virtual museum) and the audio files are not stored in the git repo due to copyright. Therefore the script will not run without errors. But you can check out the virtual museum here: https://www.sic-elephanthouse.ch/elephanthouse2-0
+## 3D Model
+The 3D model (elephanthouse.glb) (the actual virtual museum) and the audio files are not stored in the git repo due to copyright. Therefore the script will not run without errors. But you can check out the virtual museum here: https://www.sic-elephanthouse.ch/elephanthouse2-0 \
 The 3D model was created with the method of photogrammetry and the software *Metashape*. The exhibition content was added with the software *Blender*.
 
 ## requirements
