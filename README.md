@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-BE AWARE: The 3D modell (the actual virtual museum) and the audio files are not stored in the git repo due to copyright. Therefore the script will not run without errors. But you can check out the virtual museum here: https://www.sic-elephanthouse.ch/elephanthouse2-0
+BE AWARE: The 3D model (the actual virtual museum) and the audio files are not stored in the git repo due to copyright. Therefore the script will not run without errors. But you can check out the virtual museum here: https://www.sic-elephanthouse.ch/elephanthouse2-0
 
 ### `npm run build`
 
